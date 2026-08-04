@@ -50,10 +50,6 @@
 
 SKILL.md 本身是一份结构化的 Prompt。你可以将它作为 System Prompt 或 Context 传入任何 LLM，让模型以丁元英的视角分析问题。
 
-### 与 thinkers-wisdom 配合
-
-本 Skill 是 [thinkers-wisdom](../thinkers-wisdom) 名人思维框架的子模块。thinkers-wisdom 是总入口，ding-yuanying 是其中收录的第一个名人视角。
-
 ## 文件结构
 
 ```
@@ -62,8 +58,6 @@ ding-yuanying-skill/
 ├── SKILL.md            # Skill 定义文件（核心）
 ├── LICENSE             # MIT 开源协议
 ├── .gitignore
-└── examples/
-    └── 丁元英怎么看.txt  # 实际分析案例
 ```
 
 ## 适用场景
