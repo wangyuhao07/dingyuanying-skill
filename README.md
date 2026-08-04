@@ -52,13 +52,7 @@ SKILL.md 本身是一份结构化的 Prompt。你可以将它作为 System Promp
 
 ### 与 thinkers-wisdom 配合
 
-本 Skill 是 [thinkers-wisdom](../thinkers-wisdom) 名人思维框架的子模块。thinkers-wisdom 是总入口，ding-yuanying 是其中收录的第一个名人视角。未来可扩展更多名人（毛泽东、王阳明等）。
-
-## 示例输出
-
-`examples/` 目录包含实际分析案例：
-
-- [国企技术人的境遇分析](./examples/丁元英怎么看.txt) — 用十个思维角度透视一个国企技术人的职业困境与破局路径
+本 Skill 是 [thinkers-wisdom](../thinkers-wisdom) 名人思维框架的子模块。thinkers-wisdom 是总入口，ding-yuanying 是其中收录的第一个名人视角。
 
 ## 文件结构
 
