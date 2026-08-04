@@ -2,6 +2,15 @@
 
 > 神即道，道法自然，如来。按规律办事的人就是神。
 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Skill](https://img.shields.io/badge/Skill-TRAE%20Agent-2D6A5F.svg)
+![Angles](https://img.shields.io/badge/Angles-10-orange.svg)
+![Source](https://img.shields.io/badge/Source-遥远的救世主-8B4513.svg)
+![GitHub stars](https://img.shields.io/github/stars/wangyuhao07/dingyuanying-skill?style=social)
+![GitHub issues](https://img.shields.io/github/issues/wangyuhao07/dingyuanying-skill)
+![GitHub last commit](https://img.shields.io/github/last-commit/wangyuhao07/dingyuanying-skill)
+![GitHub repo size](https://img.shields.io/github/repo-size/wangyuhao07/dingyuanying-skill)
+
 一个从《遥远的救世主》（豆豆 著）中蒸馏出的思维分析框架，将丁元英的认知体系提炼为 **10 个可调用的思维角度**，用于战略判断、竞争博弈、文化洞察、规律分析和人生方向等场景的深度分析。
 
 ## 这是什么
